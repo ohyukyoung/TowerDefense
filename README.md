@@ -81,7 +81,7 @@ For building and running the game you need:
 
 
 # 최종 게임 영상
-수룡아 졸업해야지! :movie_camera: [최종 영상](https://blog.naver.com/oouk1/222670106251)
+TowerDefense Game :movie_camera: [최종 영상](https://blog.naver.com/oouk1/222670106251)
 
 ### 화면 설계서, 기능 명세서
 #### 최종 결과와는 약간 다르지만 초기 구상이다.
