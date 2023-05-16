@@ -1,9 +1,9 @@
 ### Game Development Using Unity
-# TowerDefense Game
+# 수룡아 졸업해야지
 
 ##### 성신여자대학교 정보시스템공학과
-##### 개발 기간: 2022.05 ~ 2022.07
-##### 2022 학기 중 프로젝트 만들기
+##### 개발 기간: 2021.05 ~ 2022.07
+##### 2021 소프트웨어경진대회
 
  ---
  # 목록 :clipboard:
@@ -22,11 +22,6 @@
 
 #### :zap:시작 배경 
 
-2022년 1학기 학기 중에 제작한 프로젝트이다. 게임제작실습이라는 과목을 들었는데 거기서 발표했던 프로젝트이다. 게임 개발자가 되고싶다고 생각한 후 프로젝트 하나는 더 배워야겠다고 생각하였다. 그래서 당시 3학년이었지만 4학년 수업을 미리 들었다. 유니티의 기초와 편리하게 사용할 수 있는 기능들을 배웠다. 기존에 유니티를 다뤄본 경험이 있었기 때문에 습득하고 배웠던 과정이 더 빨랐던 것 같다. 또한, 많은 유용한 기능을 배워서 유니티 개발이 더 편리했던 것 같다.
-#### :zap: 간트차트, 기능 명세서
-간트차트 | 기능 명세서
---- | --- |
-![image](https://user-images.githubusercontent.com/90199652/198581665-3ce28eff-9722-40ff-a664-9e5910592939.png)|![image](https://user-images.githubusercontent.com/90199652/198581737-b536f78f-8c4b-4afc-868e-59a987d66357.png)
 
 #### :zap: 직면했던 문제
 우리가 직면했던 문제점 중 가장 큰 문제점은 코로나로 인해 직접 만나지 못하고 화상회의만 했던 점이다. 직접 만나지 못했기 때문에 소통이 그만큼 잘 되지 않았다. 또한 팀원 모두 유니티 사용과 c# 사용이 처음이었기 때문에 한명이 오류가 나거나 해결책을 모르면 다른 팀원이 도와줄 때 시간이 오래걸렸다. 유니티 에셋 스토어의 여부를 몰랐기 때문에 모든 도트를 직접 만들었는데 그 덕분에 특색은 있지만 초반에 시간이 많이 소요됐다.
@@ -81,14 +76,5 @@ For building and running the game you need:
 
 # 최종 게임 영상
 TowerDefense Game :movie_camera: [최종 영상](https://blog.naver.com/oouk1/222670106251)
-
-### 화면 설계서, 기능 명세서
-#### 최종 결과와는 약간 다르지만 초기 구상이다.
-
-![image](https://user-images.githubusercontent.com/90199652/198581788-0f14796a-0272-4a61-be72-a1ad75b90622.png)
-![image](https://user-images.githubusercontent.com/90199652/198581802-2de2c70d-e973-43c5-b0d1-3c70b5dd6484.png)
-![image](https://user-images.githubusercontent.com/90199652/198581842-e85798cf-e10f-4f7f-8710-b9d918bcb015.png)
-![image](https://user-images.githubusercontent.com/90199652/198581877-8fc124f1-02a8-4222-8c1f-62832ba74a30.png)
-![image](https://user-images.githubusercontent.com/90199652/198581906-2d7ab7b8-9bc5-4df9-b2b8-e1362a36f4d4.png)
 
 
